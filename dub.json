@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Herringway"
+	],
+	"targetType": "executable",
+	"copyright": "Copyright © 2023, Herringway",
+	"license": "proprietary",
+	"name": "ducc"
+}

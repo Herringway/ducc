@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dvucc
+dvucc.so
+dvucc.dylib
+dvucc.dll
+dvucc.a
+dvucc.lib
+dvucc-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
+*.lib
